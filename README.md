@@ -5,7 +5,7 @@ Bu repo [Atıl Samancioğlu](https://www.udemy.com/course/ios-gelistirme-kursu/)
 ![CALCULATOR](https://user-images.githubusercontent.com/109231989/202790302-62d43fab-0d52-41a4-97c4-daadbae45a31.png)
 
 ## Installation!
-Projeyi denemen isterseniz. Aşağıdan clonelayabilirsiniz.
+Projeyi denemek isterseniz. Aşağıdan clonelayabilirsiniz.
 
 ```bash
 git clone https://github.com/atalaycavusoglu/4islemHesapMakinesi
